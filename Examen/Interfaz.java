@@ -14,6 +14,8 @@ public class Interfaz {
 	/**
 	 * Launch the application.
 	 */
+
+	// comentario orientativo
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
